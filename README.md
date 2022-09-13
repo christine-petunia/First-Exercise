@@ -1,2 +1,2 @@
-# First-Exercise
-Don't forget to be AWESOME
+# Let's go to matplotlib!
+Don't forget to be AWESOME!
